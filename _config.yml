@@ -11,7 +11,14 @@ locale                   : "en-US"
 title                    : "Marliana Marraccini"
 title_separator          : "-"
 name                     : &name "Marliana Marraccini"
-description              : &description "I’m a Junior at Virginia Tech, majoring in Computer Engineering with a focus on controls, robotics, and autonomy. Passionate about innovation and problem-solving, I thrive on applying technology in creative ways to drive meaningful change. My interests lie at the intersection of engineering and entrepreneurship, and I aspire to pursue a career in international field service within application engineering. Whether tackling complex challenges or developing solutions that push the boundaries of technology, I am always looking for opportunities to innovate and make an impact."
+description              : &description "I’m a Junior at Virginia Tech, majoring in Computer Engineering with a 
+                                        focus on controls, robotics, and autonomy. Passionate about innovation 
+                                        and problem-solving, I thrive on applying technology in creative ways to 
+                                        drive meaningful change. My interests lie at the intersection of engineering 
+                                        and entrepreneurship, and I aspire to pursue a career in international field 
+                                        service within application engineering. Whether tackling complex challenges 
+                                        or developing solutions that push the boundaries of technology, I am always 
+                                        looking for opportunities to innovate and make an impact."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -31,14 +38,14 @@ author:
   email            : "marliana@vt.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://github.com/MarlianaM"
   #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
  # semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #researchgate     : # URL
-  scopus           : # URL
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -49,7 +56,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+ # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
