@@ -11,8 +11,7 @@ locale                   : "en-US"
 title                    : "Marliana Marraccini"
 title_separator          : "-"
 name                     : &name "Marliana Marraccini"
-description              : &description "I’m a Junior at Virginia Tech, majoring in Computer Engineering with a 
-                                        focus in controls, robotics, and autonomy!
+description              : &description "I’m a Junior at Virginia Tech, majoring in Computer Engineering with a focus in controls, robotics, and autonomy!"
 url                      : https://marlianam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/MarlianaM"
