@@ -12,13 +12,7 @@ title                    : "Marliana Marraccini"
 title_separator          : "-"
 name                     : &name "Marliana Marraccini"
 description              : &description "I’m a Junior at Virginia Tech, majoring in Computer Engineering with a 
-                                        focus on controls, robotics, and autonomy. Passionate about innovation 
-                                        and problem-solving, I thrive on applying technology in creative ways to 
-                                        drive meaningful change. My interests lie at the intersection of engineering 
-                                        and entrepreneurship, and I aspire to pursue a career in international field 
-                                        service within application engineering. Whether tackling complex challenges 
-                                        or developing solutions that push the boundaries of technology, I am always 
-                                        looking for opportunities to innovate and make an impact."
+                                        focus on controls, robotics
 url                      : https://marlianam.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/MarlianaM"
@@ -28,7 +22,7 @@ repository               : "https://github.com/MarlianaM"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "thug.jpg"
+  avatar           : "mar.jpg"
   name             : "Marliana Marraccini"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
